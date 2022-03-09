@@ -1,14 +1,17 @@
 Company: Warner Bros
+Director: Christopher Nolan
 Batman Begins 2005
 The Dark Knight 2008
 The Dark Knight Rises 2012
 
 Company: Marvel Studio
+Director: John and Anthony Russo, John Whedon
 Avengers 2012
 Avengers Infinity War 2018
 Avengers Endgame 2019
 
 Company: Columbia
+Director: Sam Raimi
 Spider-Man 2002
 Spider-Man 2 2004
 Spider-Man 3 2007
