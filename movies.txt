@@ -1,9 +1,14 @@
+Company: Warner Bros
 Batman Begins 
 The Dark Knight 
 The Dark Knight Rises
+
+Company: Marvel Studio
 Avengers
 Avengers Infinity War
 Avengers Endgame
+
+Company: Columbia
 Spider-Man
 Spider-Man 2
 Spider-Man 3
